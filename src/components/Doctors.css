@@ -1,0 +1,18 @@
+.face:hover,
+.link:hover {
+  color: #fff;
+  background: #0a66c2;
+}
+
+.twet:hover {
+  color: #fff;
+  background: #000;
+}
+
+.link,
+.face,
+.twet {
+  transition: 0.3s;
+  cursor: pointer;
+
+}
